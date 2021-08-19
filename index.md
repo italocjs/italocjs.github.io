@@ -8,7 +8,7 @@ Hi, This page is still under development.
 
 ### Forest harvester quality detection device
 <p align="left">
-<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+{% <a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  %}
 </p>
 <strong> Technical skills: Embedded software, ESP32, Machine Learning </strong>
 <br>
@@ -21,7 +21,6 @@ Hi, This page is still under development.
 
 ### 3D Printer development: Model "Office"
 <p align="left">
-<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
 </p>
 <strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
 <br>
@@ -34,7 +33,6 @@ Hi, This page is still under development.
 
 ### 3D Printer development: Model "400HT"
 <p align="left">
-<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
 </p>
 <strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
 <br>
@@ -47,7 +45,6 @@ Hi, This page is still under development.
 
 ### Paixmedical products?"
 <p align="left">
-<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
 </p>
 <strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
 <br>
@@ -57,8 +54,3 @@ Hi, This page is still under development.
 <br>
 
 ---
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
