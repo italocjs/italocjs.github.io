@@ -1,11 +1,37 @@
-## Portfolio
+# Portfolio
 
 ---
+## Product development projects
 
-### Product development
+### Forest harvester quality detection device
 
-[todo1](/sample_page)
+[todo2](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 3D Printers development
+
+[todo3](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### CNC Router (for personal use)
+
+[todo4](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 [todo2](/pdf/sample_presentation.pdf)
