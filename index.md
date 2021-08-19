@@ -25,24 +25,38 @@ Hi, This page is still under development.
 </p>
 <strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
 <br>
-<div style="text-align: justify"> I was involved in every step of the development of this 3D Printers, including conception, 3D Modelling, Programming (ATMEL and Raspberry Pi 3, C++ and python) and the development of the manufacturing process. This printer model is aimed to the industrial market, for materials such as PP, Nylon PA6, TRITAN and other high performance materials.</div>
+<div style="text-align: justify"> I was involved in every step of the development of this 3D Printer, including conception, 3D Modelling, Programming (ATMEL and Raspberry Pi 3, C++ and python) and the development of the manufacturing process. This printer model is aimed to the industrial market, for materials such as PP, Nylon PA6, TRITAN and other high performance materials.</div>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true"/>
 <br>
 
+---
 
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### 3D Printer development: Model "400HT"
+<p align="left">
+<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+</p>
+<strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
+<br>
+<div style="text-align: justify"> An high end 3D Printer, for high temperature materials (TODO).</div>
+<br>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true"/>
+<br>
 
 ---
 
+### Paixmedical products?"
+<p align="left">
+<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+</p>
+<strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
+<br>
+<div style="text-align: justify"> to write something.</div>
+<br>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true"/>
+<br>
 
+---
 
 
 ---
