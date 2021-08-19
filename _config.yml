@@ -2,7 +2,6 @@ title: John Doe # your name (or website title) here
 logo: "/images/italo_round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, welcome to my github, here you can find some of the projects i've been working  
-  <br><br>
   Skills:
   * Programming: 
     * C++ for microcontrollers
@@ -15,7 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     * Solidworks
     * Fusion 360
     * Materialize Magics
-  <br><br>
   <a href="https://www.linkedin.com/in/italocjs/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
