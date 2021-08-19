@@ -17,6 +17,8 @@ Hi, This page is still under development.
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/harvesting_poc2.png?raw=true"/>
 <br>
 
+---
+
 ### 3D Printer development: Model "Office"
 <p align="left">
 <a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
