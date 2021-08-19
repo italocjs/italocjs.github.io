@@ -4,11 +4,11 @@
 
 ### Product development
 
-[3D Tecnologia Office](/sample_page)
+[todo1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[3D Tecnologia 400HT](/pdf/sample_presentation.pdf)
+[todo2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
