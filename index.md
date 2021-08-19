@@ -13,7 +13,7 @@ Hi, This page is still under development.
 <br>
 <div style="text-align: justify"> This device was developed for SUZANO SA (one of the biggest tree harvesting companies in the world) as a proof of concept. it is used to reduce the amount of raw material lost during the harvesting process by informing the operator about non ideal harvestings and what was wrong. This device need to detect information in a extremely harsh enviroment, so alternative and creative ways to detect positioning, speed, and contact had to be used. The gethered data can be retrieved over a SD Card or bluetooth. This POC has been aproved for further development.</div>
 <br>
-<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/harvesting_poc2.png?raw=true"/>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/harvester_poc3.png?raw=true"/>
 <br>
 
 ---
