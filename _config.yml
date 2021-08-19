@@ -4,17 +4,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hi, welcome to my github, here you can find some of the projects i've been working  
   <br><br>
   Skills:
-  -Programming: 
-    - C++ for microcontrollers
-      - PIC, ATMEL, Expressif, Raspberry
-    - Python
-      - OpenCV
-      - RPA, PyAutoGui
-      - ArcGIS / PowerBI
-  - 3D Modelling:
-    - Solidworks (advanced)
-    - Fusion 360
-    - Materialize Magics
+  * Programming: 
+    * C++ for microcontrollers
+      *PIC, ATMEL, Expressif, Raspberry
+    * Python
+      * OpenCV
+      * RPA, PyAutoGui
+      * ArcGIS / PowerBI
+  * 3D Modelling:
+    * Solidworks
+    * Fusion 360
+    * Materialize Magics
   <br><br>
   <a href="https://www.linkedin.com/in/italocjs/">View My LinkedIn Profile</a> 
   
