@@ -4,44 +4,16 @@
 ## Product development projects
 
 ### Forest harvester quality detection device
+<p align="left">
+<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+</p>
+<strong> Technical skills: Embedded software, ESP32, Machine Learning </strong>
+<br>
+<div style="text-align: justify"> This device was develop for one of the biggest tree harvesting companies in the world, as a proof of concept. it is used to reduce the amount of raw material lost during the harvesting process by informing the operator about non ideal harvestings and what was wrong. This device need to detect information in a extremely harsh enviroment, so alternative and creative ways to detect positioning, speed, and contact had to be used.  This POC has been aproved for further development.</div>
+<br>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/tableau.jpg?raw=true"/>
+<br>
 
-[todo2](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 3D Printers development
-
-[todo3](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### CNC Router (for personal use)
-
-[todo4](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-[todo2](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
