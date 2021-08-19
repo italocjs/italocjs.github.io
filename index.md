@@ -8,7 +8,6 @@ Hi, This page is still under development.
 
 ### Forest harvester quality detection device
 <p align="left">
-{% <a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  %}
 </p>
 <strong> Technical skills: Embedded software, ESP32, Machine Learning </strong>
 <br>
