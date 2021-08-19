@@ -1,9 +1,20 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/italo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi, welcome to my github, here you can find some of the projects i've been working  
   <br><br>
-  Second description 
+  Skills:
+  -Programming: 
+    - C++ for microcontrollers
+      - PIC, ATMEL, Expressif, Raspberry
+    - Python
+      - OpenCV
+      - RPA, PyAutoGui
+      - ArcGIS / PowerBI
+  - 3D Modelling:
+    - Solidworks (advanced)
+    - Fusion 360
+    - Materialize Magics
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
