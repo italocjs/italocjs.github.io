@@ -1,4 +1,8 @@
+Hi, This page is still under development.
 
+# Portfolio
+
+---
 ## Product development projects
 <details>
   <summary>Click to expand all projects!</summary>
@@ -63,3 +67,9 @@
 
   ---
 </details>
+
+## Product development projects
+<details>
+  <summary>Click to expand all projects!</summary>
+  <div style="text-align: justify"> nothing here yet.</div>
+  </details>
