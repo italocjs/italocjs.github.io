@@ -77,7 +77,8 @@ Hi, This page is still under development.
   
 <details>
   <summary>Click to expand all projects!</summary>
-
+  
+</details>
 
   ---
 ## Programming
@@ -86,3 +87,5 @@ Hi, This page is still under development.
   
 <details>
   <summary>Click to expand all projects!</summary>
+  
+</details>
