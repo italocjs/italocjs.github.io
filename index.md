@@ -17,10 +17,10 @@ Hi, This page is still under development.
 ## Product development projects
 <div style="text-align: justify">Over the years i've been developing products, including but not limited to medical devices, forest devices, CNC Machines and 3D Printers.  Here you can find information about some of them and how i was involved.</div>
 <br>
-<a href="https://github.com/italocjs/italocjs.github.io/blob/master/product_dev.md"><img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true" alt="HTML tutorial" style="width:42px;height:42px;"></a>
-  <br>
+<a href="https://github.com/italocjs/italocjs.github.io/blob/master/product_dev.md"><img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true" alt="HTML tutorial" </a>
+ <br>
 [Click here to all my product development projects](https://github.com/italocjs/italocjs.github.io/blob/master/product_dev.md)
-  <br>
+ <br>
 
 
 
