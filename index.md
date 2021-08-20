@@ -5,10 +5,7 @@ Hi, This page is still under development.
 ---
 ## Product development projects
 ### harvester quality logging device
-<p align="left">
-</p>
 <strong> Technical skills: Embedded software, ESP32, Machine Learning </strong>
-<br>
 <details>
   <summary>Details!</summary>
   
