@@ -18,6 +18,18 @@ Hi, This page is still under development.
 
 ---
 
+### CNC Router development and manufacturing"
+<p align="left">
+</p>
+<strong> Technical skills: 3D Modelling, Industrial Automation </strong>
+<br>
+<div style="text-align: justify"> I built a medium sized (1000x1000x300mm useful area) CNC as compact as possible, the main goal is to machine aeronautical grade aluminum (7075) with a 4CV spindle, high precision servo's and leadscrew on every axis to improve tolerance.</div>
+<br>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/cnc.jpeg?raw=true"/>
+<br>
+
+---
+
 ### 3D Printer development: Model "Office"
 <p align="left">
 </p>
