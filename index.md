@@ -1,3 +1,5 @@
+Hmm, you should'nt have found this page unless a link was sent to you, this page is under construction and its not ready yet, content here might be incomplete and innacurate.
+
 # Portfolio
 
 ---
