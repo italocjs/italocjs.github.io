@@ -2,7 +2,6 @@ Hmm, you should'nt have found this page unless a link was sent to you, this page
 
 # Portfolio
 
----
 ## Product development projects
 <div style="text-align: justify">Over the years i've been developing products, including but not limited to medical devices, forest devices, CNC Machines and 3D Printers.  Here you can find information about some of them and how i was involved.</div>
 [Click here to check more](/product_dev)
