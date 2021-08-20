@@ -23,7 +23,7 @@ Hi, This page is still under development.
 </p>
 <strong> Technical skills: 3D Modelling, Industrial Automation </strong>
 <br>
-<div style="text-align: justify"> I have built a medium sized (1000x1000x300mm useful area) CNC for myself, as compact as possible, the main goal is to machine aeronautical grade aluminum (7075) with a 4CV spindle, high precision servo's and leadscrew on every axis to improve tolerance.</div>
+<div style="text-align: justify"> I have built a medium sized (1000x1000x300mm useful area) CNC for myself, as compact as possible, the main goal is to machine aeronautical grade aluminum (7075) with a 4kW spindle, high precision servo's and leadscrew on every axis to improve tolerance.</div>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/cnc.jpeg?raw=true"/>
 <br>
