@@ -1,9 +1,9 @@
-Hmm, you should'nt have found this page unless a link was sent to you, this page is under construction and its not ready yet, content here might be incomplete and innacurate.
+<div style="text-align: justify">Hmm, you should'nt have found this page unless a link was sent to you, this page is under construction and its not ready yet, content here might be incomplete and innacurate.</div>
 
 # Portfolio
 
 ## Product development projects
-<div style="text-align: justify">Over the years i've been developing products, including but not limited to medical devices, forest devices, CNC Machines and 3D Printers.  Here you can find information about some of them and how i was involved.</div>
+<div style="text-align: justify"> Over the years i've been developing products, including but not limited to medical devices, forest devices, CNC Machines and 3D Printers.  Here you can find information about some of them and how i was involved.</div>
 [Click here to check more](/product_dev)
 <br>
 <a href="https://github.com/italocjs/italocjs.github.io/blob/master/product_dev.md"><img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/Imagem1_resized.jpg?raw=true" alt=""></a> 
