@@ -60,22 +60,3 @@
 
   ---
 </details>
-
-## 3D Modelling and simulation
-<div style="text-align: justify">I'm skilled in 3D Modelling using Solidworks and Fusion360, here you can find some of my latest designs.</div>
-  <br>
-  
-<details>
-  <summary>Click to expand all projects!</summary>
-  
-</details>
-
-  ---
-## Programming
-<div style="text-align: justify">I've always been interested in new technologies and programming languages, i'm very familiar with C++ and Python, also with the libs Pandas, numpy and OpenCV.  I'm currently learning more about Machine learning.</div>
-  <br>
-  
-<details>
-  <summary>Click to expand all projects!</summary>
-  
-</details>
