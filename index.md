@@ -1,16 +1,3 @@
-<div class="n-accordion">
-	<h3 class="n-accordion--label">
-		Title
-	</h3>
-	<input type="checkbox">
-	<div class="n-accordion--content">
-		<p>Content</p>
-	</div>
-</div>
-
-
-Hi, This page is still under development.
-
 # Portfolio
 
 ---
