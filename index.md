@@ -69,7 +69,14 @@
 <strong> CNC Router.</strong>
 <strong> Technical skills: 3D Modelling, Electrical Engineering, C Programming, Automation </strong>
 <br>
-<div style="text-align: justify"> I have built a medium sized (1000x1000x300mm useful area) CNC for myself, as compact as possible, the main goal is to machine aeronautical grade aluminum (7075) with a 4kW spindle, high precision 30KGF servo's, 20mm leadscrew and 20mm linear rails were used on all axis to improve tolerance.  The controller is an original Mach3 USB Controller.</div>
+<div style="text-align: justify"> I have built a medium sized (1000x1000x300mm useful area) CNC for myself, as compact as possible, the main goal is to machine aeronautical grade aluminum (7075) prioritizing quality over speed.</div>
+<ul>
+  <li>Controller: Mach3 USB Controller</li>
+  <li>Servo: EasyServo 30kgf.mc</li>
+  <li>Spindle: 4KW watercooled, by OceanTech</li>
+  <li>Inverter: CFW11 - 4KW</li>  
+  <li>Mechanical details: 20mm leadscrew, 20mm linear rails</li>
+</ul>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/cnc.jpeg?raw=true"/>
 <br>
@@ -81,17 +88,20 @@
 <strong> 3D Printer development, Model "Office".</strong>
 <strong> Technical skills: 3D Modelling, C++ Programming, Hardware development </strong>
 <br>
-<div style="text-align: justify">A compact 3D Printer developed for the industrial market (processing materials such as nylon, tritan and petg).
-
+<div style="text-align: justify">A compact 3D Printer developed for the industrial market (processing materials such as nylon, tritan and petg).</div>
+<br>
 I Have been involved with:
-- Hardware programming (Raspbery PI3, ATMEGA2560)
-- PCB development
-- 3D Modelling and simulations
-- Development of the manufacturing process, including validating suppliers and lean manufacturing
-This machine has been developed and constantly updated for 3DTecnologia LTDA over ~2 years, while i worked there.</div>
+<ul>
+  <li>Hardware programming (Raspbery PI3, ATMEGA2560)</li>
+  <li>PCB development</li>
+  <li>3D Modelling and simulations</li>
+  <li>Development of the manufacturing process, including validating suppliers and lean manufacturing</li>
+</ul>
+<div style="text-align: justify">This machine has been developed and constantly updated for 3DTecnologia LTDA over ~2 years, while i worked there.</div>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/office.jpg?raw=true"/>
 <br>
+
 
 ---
 
@@ -102,10 +112,12 @@ This machine has been developed and constantly updated for 3DTecnologia LTDA ove
 <br>
 <div style="text-align: justify">A large 3D Printer developed for the industrial market, includes a heated chamber and high temperature extruders for usage with high performance materials, 
 I Have been involved with:
-- Hardware programming (Raspbery PI3, ATMEGA2560)
-- PCB development
-- 3D Modelling and simulations
-- Development of the manufacturing process, including validating suppliers and lean manufacturing
+<ul>
+  <li>Hardware programming (Raspbery PI3, ATMEGA2560)</li>
+  <li>PCB development</li>
+  <li>3D Modelling and simulations</li>
+  <li>Development of the manufacturing process, including validating suppliers and lean manufacturing</li>
+</ul>
 This machine has been developed for 3DTecnologia LTDA over ~6 months, while i worked there.</div>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/400ht.png?raw=true"/>
