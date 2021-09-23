@@ -1,4 +1,4 @@
-# Product development projects
+# My latest projects
 
   <p align="left">
   </p>
@@ -23,7 +23,7 @@
   <br>
 
    ---
-   
+
   <p align="left">
   </p>
   <strong> Holding base for medical scanning device.</strong>
@@ -44,18 +44,6 @@
   <div style="text-align: justify"> I've designed, 3D modelled and prototyped this portable station.</div>
   <br>
   <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/base_pistola.jpg?raw=true"/>
-  <br>
-
-   ---
-
-  <p align="left">
-  </p>
-  <strong> CNC Router.</strong>
-  <strong> Technical skills: 3D Modelling, Electrical Engineering, C Programming, Automation </strong>
-  <br>
-  <div style="text-align: justify"> I've designed and built this CNC machine to cut aeronautical grade aluminum high good tolerances. Using high precision servos, a 4CV watercooled spindle.</div>
-  <br>
-  <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/cnc.jpeg?raw=true"/>
   <br>
 
    ---
