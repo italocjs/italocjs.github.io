@@ -9,6 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align="justify">Welcome to my portfolio page, i am a product developer, with experience in programming for microcontrollers, 3D Modelling and 3D printing. 
   <br>
   </p>
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 #  <a href="/pdf/Jessie%20Le_Resume.pdf">Resume</a> | 
