@@ -1,0 +1,11 @@
+title: <p align="center">Italo Soares</p> # your name (or website title) here 
+logo: "/images/italo_round.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks) 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/italocjs/">LinkedIn</a> |    
+  <a href="https://github.com/italocjs">GitHub</a>
+  </p>
+  <br>
+  <p align="justify">Welcome to my portfolio page, i am a product developer, with experience in programming for microcontrollers, 3D Modelling and 3D printing. 
+  <br>
+  </p>
