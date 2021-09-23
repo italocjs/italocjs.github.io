@@ -31,6 +31,7 @@
 <strong> Holding base for medical scanning device.</strong>
 <strong> Technical skills: 3D Modelling, Simulation, 3D Printing </strong>
 <br>
+
 <div style="text-align: justify"> I've designed, 3D modelled and prototyped this support for a medical device.</div>
 <br>
 <img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/base_pistola.jpg?raw=true"/>
