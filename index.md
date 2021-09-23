@@ -46,7 +46,19 @@
 <br>
 <div style="text-align: justify"> I've designed, 3D modelled and prototyped this portable station.</div>
 <br>
-<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/base_pistola.jpg?raw=true"/>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/case_paix.jpg?raw=true"/>
+<br>
+
+---
+
+<p align="left">
+</p>
+<strong> Control unit for a Medical device.</strong>
+<strong> Technical skills: 3D Modelling, 3D Printing </strong>
+<br>
+<div style="text-align: justify"> I've designed, 3D modelled and prototyped this device (a controller unit for a medical device).</div>
+<br>
+<img src="https://github.com/italocjs/italocjs.github.io/blob/master/images/case_fonteedit.jpg?raw=true"/>
 <br>
 
 ---
